@@ -14,11 +14,11 @@ generating the training data and 30% the test data.
 
 ##Variables 
 After reading the tables into one file and combining them into one ,we get the following variables :
-features.txt
-activity_labels.txt
-subject_train.txt
-x_train.txt
-y_train.txt
-subject_test.txt
-x_test.txt
-y_test.txt
+####features.txt
+####activity_labels.txt
+####subject_train.txt
+####x_train.txt
+####y_train.txt
+####subject_test.txt
+####x_test.txt
+####y_test.txt
